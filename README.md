@@ -1,2 +1,0 @@
-# minimax
-minimax search
